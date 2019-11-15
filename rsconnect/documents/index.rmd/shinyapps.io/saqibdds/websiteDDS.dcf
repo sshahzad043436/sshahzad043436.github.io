@@ -1,0 +1,12 @@
+name: websiteDDS
+title: websiteDDS
+username:
+account: saqibdds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1476094
+bundleId: 2590898
+url: https://saqibdds.shinyapps.io/websiteDDS/
+when: 1573790892.16733
+asMultiple: FALSE
+asStatic: FALSE
